@@ -17,17 +17,16 @@ body {
 .titulotexto {
     color: #b4947d;
     font-size: 30px;
-    margin-top: -680px;
+    margin-top: -650px;
     font-family: "Chango", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
-
-p {
+h1 {
     color: rgb(0, 0, 0);
     top: 80%;
     font-size: 20px;
-    margin-top: -225px;
+    margin-top: -205px;
     font-family: "Chango", serif;
     font-weight: 400;
     font-style: normal;
