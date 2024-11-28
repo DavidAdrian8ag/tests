@@ -32,6 +32,22 @@ h1 {
     font-style: normal;
 }
 
+.uno{
+    margin-top: -300px;
+}
+
+.dos{
+    margin-top: -250px;
+}
+.tres{
+    margin-top: -200px;
+}
+.cuatro{
+    margin-top: -150px;
+}
+.cinco{
+    margin-top: -100px;
+}
 
 .container {
     width: 300px;
